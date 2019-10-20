@@ -9,3 +9,8 @@ How to build a website using GitHub Pages, Jekyll and Atom on Windows operating 
 Changing theme
 
 6.	Download theme from http://jekyllthemes.org/themes/webjeda-cards/ and unzip contents of theme into root directory of webpage on local server i.e. ~/users/Lauren/laurenfranks11.github.io
+
+
+How to run the user acceptance test
+1.	Go to https://www.browserstack.com/ and create free account
+2.  Follow instructions according to manual testing option.
