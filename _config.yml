@@ -16,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "laurenfranks11.github.io" # the base hostname & protocol for your site
 
 #sidebar
-default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+default-image: private_eye.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
 
@@ -40,14 +40,12 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+twitter: http://twitter.com/@franky_444
+github: http://github.com/laurenfranks11
+email: lauren.franks@hdr.mq.edu.au
 
 #facebook like box
-fb-like-box: yes
+fb-like-box: no
 fb-app-id: 549480635219583
 fb-page-url: https://www.facebook.com/webjeda/
 fb-page-title: webjeda
