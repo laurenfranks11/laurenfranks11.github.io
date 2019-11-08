@@ -6,7 +6,8 @@ categories: jekyll update
 img: smart-speaker.jpg
 categories: [one, two]
 ---
-<h1>Hey Google, are you listening?</h1>
+<h1>Hey Google, are you listening?</h1> 
+
 <h4>The smart guide to smart speakers</h4>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla. Eget nunc lobortis mattis aliquam. Sed faucibus turpis in eu mi bibendum neque egestas. Interdum varius sit amet mattis vulputate. Amet consectetur adipiscing elit duis tristique. Sed euismod nisi porta lorem mollis aliquam ut. Faucibus purus in massa tempor nec feugiat nisl pretium. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tortor aliquam nulla facilisi cras fermentum odio. Leo in vitae turpis massa. Lacus luctus accumsan tortor posuere ac ut. Sed faucibus turpis in eu. Purus faucibus ornare suspendisse sed nisi lacus sed. Iaculis eu non diam phasellus vestibulum lorem sed risus.

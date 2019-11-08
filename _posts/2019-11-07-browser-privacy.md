@@ -6,6 +6,8 @@ categories: jekyll update
 img: google-browser.jpg
 categories: [one, two]
 ---
+What privacy extensions are best?
+
 Here's where I provide a complete overview of internet browser privacy concerns and browser privacy extension remedies.
 
 <h4>TLDR; Overview of Privacy Extensions</h4>

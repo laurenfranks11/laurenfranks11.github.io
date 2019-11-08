@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-
-Insert your contact details or a contact form here.
-
-Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+<strong>Lauren Franks</strong><br/>
+Masters of Research student at Macquarie University<br/>
+<strong>Address:</strong> Balaclava Rd, Macquarie Park NSW 2109<br/>
+<strong>Email:</strong> lauren.franks@hdr.mq.edu.au

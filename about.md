@@ -6,5 +6,8 @@ permalink: /about/
 
 
 
+This website was created as part of a course requirement for a Masters of Research degree at Macquarie University.
 
-This is the beginnings of a blog designed by a masters student who wanted a way to share their research on data privacy. This same method can be used by anyone wanting to share their research on a free static webpage. See my Github for deployment instructions.
+The aim of this website is to provide a platform to share research on data privacy in an accessible way.
+
+This same method can be used by anyone wanting to share their research on a free static webpage. See my Github for deployment instructions.
