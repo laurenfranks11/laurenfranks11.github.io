@@ -1,0 +1,52 @@
+I".<p>This website was created as part of a course requirement for a Masters of Research degree at Macquarie University.</p>
+
+<p>The aim of this website is to provide a platform to share research on data privacy in an accessible way. This same method can be used by anyone wanting to share their research on a free static webpage. To try it yourself, see my deployment instructions below.</p>
+
+<p>My backup recovery plan includes making regular commits to Github so that I can access and restore my work from any computer.</p>
+
+<p>Here is some example code written in Ruby:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">---</span>
+<span class="ss">layout: </span><span class="n">post</span>
+<span class="ss">title:  </span><span class="s2">"Internet Browsers"</span>
+<span class="ss">date:   </span><span class="mi">2019</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mo">07</span> <span class="mi">10</span><span class="p">:</span><span class="mi">51</span><span class="p">:</span><span class="mi">47</span> <span class="o">+</span><span class="mo">0530</span>
+<span class="ss">categories: </span><span class="n">jekyll</span> <span class="n">update</span>
+<span class="ss">img: </span><span class="n">google</span><span class="o">-</span><span class="n">browser</span><span class="p">.</span><span class="nf">jpg</span>
+<span class="ss">categories: </span><span class="p">[</span><span class="n">one</span><span class="p">,</span> <span class="n">two</span><span class="p">]</span>
+<span class="o">---</span>
+<span class="no">What</span> <span class="n">privacy</span> <span class="n">extensions</span> <span class="n">are</span> <span class="n">best?</span>
+
+<span class="no">Here</span><span class="err">'</span><span class="n">s</span> <span class="n">where</span> <span class="no">I</span> <span class="n">provide</span> <span class="n">a</span> <span class="n">complete</span> <span class="n">overview</span> <span class="n">of</span> <span class="n">internet</span> <span class="n">browser</span> <span class="n">privacy</span> <span class="n">concerns</span> <span class="n">and</span> <span class="n">browser</span> <span class="n">privacy</span> <span class="n">extension</span> <span class="n">remedies</span><span class="p">.</span>
+
+<span class="nf">&lt;</span><span class="n">h4</span><span class="o">&gt;</span><span class="no">TLDR</span><span class="p">;</span> <span class="no">Overview</span> <span class="n">of</span> <span class="no">Privacy</span> <span class="no">Extensions</span><span class="o">&lt;</span><span class="sr">/h4&gt;
+
+| Extension   |      Benefits/</span><span class="no">Functions</span>      <span class="o">|</span>  <span class="no">Cost</span> <span class="o">|</span>
+<span class="o">|-------------|</span><span class="p">:</span><span class="o">----------------------------</span><span class="ss">:|</span><span class="o">------</span><span class="ss">:|</span>
+<span class="o">|</span><span class="n">uBlock</span> <span class="no">Origin</span><span class="o">|</span><span class="no">List</span> <span class="n">of</span> <span class="n">functions</span>             <span class="o">|</span> <span class="n">free</span>  <span class="o">|</span>
+<span class="o">|</span> <span class="no">LastPass</span>    <span class="o">|</span>    <span class="no">List</span> <span class="n">of</span> <span class="n">functions</span>         <span class="o">|</span><span class="n">subscription</span><span class="o">|</span>
+<span class="o">|</span> <span class="no">Trocker</span>     <span class="o">|</span> <span class="no">List</span> <span class="n">of</span> <span class="n">functions</span>            <span class="o">|</span>  <span class="n">free</span> <span class="o">|</span>
+<span class="p">{:</span> <span class="p">.</span><span class="nf">table</span> <span class="p">.</span><span class="nf">table</span><span class="o">-</span><span class="n">striped</span> <span class="p">.</span><span class="nf">table</span><span class="o">-</span><span class="n">hover</span><span class="p">}</span></code></pre></figure>
+
+<h2>How to build a website using GitHub Pages, Jekyll and Atom on Windows operating system</h2>
+
+<ol>
+  <li>Download <a href="https://gitforwindows.org">Git for Windows</a></li>
+  <li>Create <a href="https://github.com/">Github account</a></li>
+  <li>Download <a href="https://jekyllrb.com/docs/installation/windows/">Jekyll for Windows</a>, which requires you to install using <a href="https://rubyinstaller.org/">RubyInstaller</a>. Be sure to install version Ruby+Devkit 2.6.X (x64).</li>
+  <li>Follow <a href="https://pages.github.com/">these instructions</a> to create a GitHub Page using the shell/terminal</li>
+  <li>Download <a href="https://atom.io/">Atom</a>code editor. Note that once installed, Atom hides itself in ~/programdata/user/atom. Consider creating desktop shortcut.</li>
+</ol>
+
+<h3>Changing theme</h3>
+
+<ol>
+  <li>Download <a href="http://jekyllthemes.org/themes/webjeda-cards/">theme</a> and unzip contents of theme into root directory of webpage on local server i.e. ~/users/Lauren/laurenfranks11.github.io</li>
+</ol>
+
+<h3>How to run the user acceptance test</h3>
+
+<ol>
+  <li>Create a free <a href="https://www.browserstack.com/">BrowserStack</a> account.</li>
+  <li>Follow instructions according to manual testing option.</li>
+</ol>
+:ET
